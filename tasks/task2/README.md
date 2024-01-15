@@ -1,5 +1,4 @@
 []: # (Documentation Comment)
-# Description: This is an example task for Task 2.
 # Task 2: Planning and Project Management for Team Idea
 
 ## Description
