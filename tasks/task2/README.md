@@ -1,4 +1,3 @@
-[]: # (Documentation Comment)
 # Task 2: Planning and Project Management for Team Idea
 
 ## Description
